@@ -20,6 +20,5 @@ This repository contains the laboratory experiments conducted for the Computatio
 
 ## Structure
 Each experiment directory contains:
-*   A comprehensive Markdown documentation (`README.md`) detailing the procedure, implementation, and learning outcomes.
-*   The primary Jupyter Notebook (`.ipynb`) containing the executable Python code and output visualizations.
+*   The primary Jupyter Notebook (`.ipynb`) or PDF file containing the executable Python code and output visualizations.
 *   Required dataset files (`.csv`, `.txt`) or accompanying documentations (`.docx`).

@@ -11,8 +11,8 @@ This repository contains the laboratory experiments conducted for the Computatio
 
 ## Laboratory Experiments
 
-| Exp No. | Title | Description | Link |
-| :---: | :--- | :--- | :---: |
+| Exp No. | Title | Description |
+| :---: | :--- | :--- |
 | **1** | **Data Analysis** | Exploratory data analysis on employee records using Pandas, Matplotlib, and Seaborn to uncover demographic and salary distributions. |
 | **2** | **Basic Text Preprocessing** | Implementation of core natural language preprocessing pipelines including text cleaning, tokenization, and stop word removal utilizing NLTK and spaCy. |
 | **3** | **Stemming, Lemmatization and Regular Expression** | Implementation of rule-based stemming (Porter), vocabulary-based lemmatization (WordNet), and pattern extraction using Regular Expressions. |
